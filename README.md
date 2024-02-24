@@ -1,4 +1,4 @@
-# CycleGAN: Replace oranges with apples and vice versa in images
+# CycleGAN: Replace apples with oranges and vice versa in images
 
 A [CycleGAN](https://arxiv.org/abs/1703.10593) was implemented and trained in order to replace apples with oranges in images and vice versa.
 

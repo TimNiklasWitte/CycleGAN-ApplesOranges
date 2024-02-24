@@ -43,11 +43,11 @@ def main():
 
         axes[0].imshow(img_real_apples)
         axes[0].axis("off")
-        axes[0].set_title("Apples")
+        axes[0].set_title("Real apples")
 
         axes[1].imshow(img_fake_oranges)
         axes[1].axis("off")
-        axes[1].set_title("Oranges")
+        axes[1].set_title("Fake oranges")
 
         plt.tight_layout()
         plt.savefig(f"../plots/results/apples to oranges/{idx}.png", bbox_inches='tight')
@@ -69,11 +69,11 @@ def main():
 
         axes[0].imshow(img_real_oranges)
         axes[0].axis("off")
-        axes[0].set_title("Oranges")
+        axes[0].set_title("Real oranges")
 
         axes[1].imshow(img_fake_apples)
         axes[1].axis("off")
-        axes[1].set_title("Apples")
+        axes[1].set_title("Fake apples")
 
         plt.tight_layout()
         plt.savefig(f"../plots/results/oranges to apples/{idx}.png", bbox_inches='tight')

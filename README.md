@@ -4,14 +4,14 @@ A [CycleGAN](https://arxiv.org/abs/1703.10593) was implemented and trained in or
 
 
 
-<img src="./plots/results/apples to oranges/11.png" width="400" height="200">
+<img src="./plots/results/apples to oranges/43.png" width="400" height="200">
 
-<img src="./plots/results/apples to oranges/138.png" width="400" height="200">
+<img src="./plots/results/apples to oranges/39.png" width="400" height="200">
 
 
-<img src="./plots/results/oranges to apples/15.png" width="400" height="200">
+<img src="./plots/results/oranges to apples/113.png" width="400" height="200">
 
-<img src="./plots/results/oranges to apples/157.png" width="400" height="200">
+<img src="./plots/results/oranges to apples/112.png" width="400" height="200">
 
 ## Model
 
